@@ -101,10 +101,10 @@ Developed an interactive dashboard including:
 
 ---
 
-## 🚀 Outcome
+##  Outcome
 
 This project demonstrates the ability to transform raw data into meaningful business insights, enabling better strategic decisions in retail operations.
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+If you found this project useful, consider giving it a star!
