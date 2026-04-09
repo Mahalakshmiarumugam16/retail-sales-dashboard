@@ -94,7 +94,10 @@ Developed an interactive dashboard including:
 ##  Dashboard Preview
 
 ![Dashboard](dashboard.png)
-![Dashboard](dashboard.png)
+
+
+
+![Dashboard](sales_vs_profit.png)
 
 ---
 
