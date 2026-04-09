@@ -93,7 +93,8 @@ Developed an interactive dashboard including:
 
 ##  Dashboard Preview
 
-![Dashboard](images/dashboard.png.png)
+![Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
