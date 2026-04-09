@@ -33,7 +33,7 @@ So I created:
 - Customer segments show different purchasing behaviors
 
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ## 📂 Files
 - retail_dashboard.pbix
